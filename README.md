@@ -1,2 +1,2 @@
 # Perceptron
-Algorytm uczenia perceptronu, który jest trenowany, aby rozróżniał dwa gatunki. Testowany na zbiorze testowym z wypisaniem dokładności klasyfikacji.
+A perceptron learning algorithm that is trained to discriminate between two species. Tested on a test set with extracted classification accuracy.
